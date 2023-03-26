@@ -23,8 +23,8 @@ var lastUpdate = new Date().getTime()
 var actionCooldown = 0;
 var cutoffStep = 0;
 
-const minerAddress = '0x43DB38301B70AebF36A9b075C0904353E4056B18' // Mainnet Final
-const tokenAddress = '0x912CE59144191C1204E64559FE8253a0e49E6548' // Mainnet BUSD
+const minerAddress = '0xf0896A0d4D0057737B8111AFC4f2890E2fb04e89' // Mainnet Final
+const tokenAddress = '0x912CE59144191C1204E64559FE8253a0e49E6548' // Mainnet ARB
 
 var tokenContract;
 var started = true;
